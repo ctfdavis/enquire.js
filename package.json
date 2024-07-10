@@ -26,6 +26,7 @@
   "scripts": {
     "start": "grunt",
     "test": "grunt test",
+    "build": "grunt build",
     "preversion": "npm test",
     "version": "grunt build && git add .",
     "postversion": "git push origin master --tags && npm publish"
