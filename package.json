@@ -1,5 +1,5 @@
 {
-  "name": "@ctfdavis/enquire.js",
+  "name": "@dcufo/enquire.js",
   "version": "2.1.7",
   "main": "./src",
   "description": "Awesome Media Queries in JavaScript",
@@ -47,7 +47,6 @@
     "karma-phantomjs-launcher": "^1.0.2"
   },
   "files": [
-    "src",
-    "dist"
+    "src"
   ]
 }
