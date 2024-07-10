@@ -1,6 +1,6 @@
 {
-  "name": "enquire.js",
-  "version": "2.1.6",
+  "name": "@ctfdavis/enquire.js",
+  "version": "2.1.7",
   "main": "./src",
   "description": "Awesome Media Queries in JavaScript",
   "homepage": "http://wicky.nillia.ms/enquire.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/WickyNilliams/enquire.js.git"
+    "url": "git://github.com/ctfdavis/enquire.js.git"
   },
   "bugs": {
     "url": "https://github.com/WickyNilliams/enquire.js/issues"
